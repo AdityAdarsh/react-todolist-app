@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AdityAdarsh/react-todolist-app/static/css/main.3c46908d.chunk.css",
+    "main.js": "/AdityAdarsh/react-todolist-app/static/js/main.b1c6e5fe.chunk.js",
+    "main.js.map": "/AdityAdarsh/react-todolist-app/static/js/main.b1c6e5fe.chunk.js.map",
+    "runtime-main.js": "/AdityAdarsh/react-todolist-app/static/js/runtime-main.bd145087.js",
+    "runtime-main.js.map": "/AdityAdarsh/react-todolist-app/static/js/runtime-main.bd145087.js.map",
+    "static/js/2.00a89c2d.chunk.js": "/AdityAdarsh/react-todolist-app/static/js/2.00a89c2d.chunk.js",
+    "static/js/2.00a89c2d.chunk.js.map": "/AdityAdarsh/react-todolist-app/static/js/2.00a89c2d.chunk.js.map",
+    "index.html": "/AdityAdarsh/react-todolist-app/index.html",
+    "precache-manifest.cdfdfedc10261b99d567af366b969c60.js": "/AdityAdarsh/react-todolist-app/precache-manifest.cdfdfedc10261b99d567af366b969c60.js",
+    "service-worker.js": "/AdityAdarsh/react-todolist-app/service-worker.js",
+    "static/css/main.3c46908d.chunk.css.map": "/AdityAdarsh/react-todolist-app/static/css/main.3c46908d.chunk.css.map",
+    "static/js/2.00a89c2d.chunk.js.LICENSE.txt": "/AdityAdarsh/react-todolist-app/static/js/2.00a89c2d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AdityAdarsh/react-todolist-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd145087.js",
+    "static/js/2.00a89c2d.chunk.js",
+    "static/css/main.3c46908d.chunk.css",
+    "static/js/main.b1c6e5fe.chunk.js"
+  ]
+}
